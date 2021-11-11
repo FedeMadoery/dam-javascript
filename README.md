@@ -1,6 +1,6 @@
 # Javascript
 
-> El siguiente texto es una guía teórica-práctica sobre javascript escrita para la materia de desarrollo de aplicaciones en la nube de la carrera de ingeniería en sistemas de información - UTN FRSF
+> El siguiente texto es una guía teórica-práctica sobre javascript escrita para la materia de desarrollo de aplicaciones moviles de la carrera de ingeniería en sistemas de información - UTN FRSF
 >
 > [Leer o descargar la versión en PDF](teoria.pdf) * No disponible *
 
